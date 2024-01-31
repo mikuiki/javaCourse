@@ -17,6 +17,7 @@ public class Entrance {
 		System.out.println(myArray.length);
 		System.out.println(myArray.data.length);
 		
+		
 	}
 }
 
